@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 content
-=======
-create a.txt
->>>>>>> ningpan/test1
